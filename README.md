@@ -4,7 +4,7 @@
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no **Senac**.
 - 💻 Desenvolvendo projetos inovadores para otimizar o dia a dia das pessoas.
-- 🚀 Atualmente trabalhando no **Solidarizame**, um aplicativo voltado para apoio em desastres naturais.
+- 🚀 Projeto **Solidarizame**, um aplicativo voltado para apoio em desastres naturais.
 
 ## 📌 Sobre o Projeto - **Solidarizame**
 
